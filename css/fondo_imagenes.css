@@ -47,12 +47,12 @@ background-color:#f5f5f5;
     z-index: 5;
 }
 .arriba p{
-    color: #f5f5f5;
-    font-size: 20px;
+    color: #eeeeee;
+    font-size: 21px;
     margin-bottom: 50px;
     margin-left: 30px;
     margin-right: 30px;
-    background-color: rgba(0, 116, 217, 0.5);
+    background-color: rgba(0, 116, 217, 0.7);
     padding: 10px;
     border-radius: 10px;
 }
@@ -66,11 +66,11 @@ background-color:#f5f5f5;
     transition: .3s all ease;
     border-radius: 0 20px 0 20px;
     margin-left: 10px;
-    color: #f5f5f5;
+    color: white;
 }
 .arriba a:hover{
     border: 3px solid #0074d9;
-    color: #001f3f;
+    color: #eeeeee;
 }
 @font-face {
     font-family: 'icomoon';
