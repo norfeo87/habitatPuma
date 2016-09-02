@@ -1,0 +1,495 @@
+<!DOCTYPE html>
+<html lang="es-MX">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="author" content="UNAM">
+<meta name="description" content="educaTIC UNAM – un hábitat para desarrollar habilidades digitales; h@bitat puma UNAM; Tecnologías para la Educación" />
+<meta name="keywords" content="educaTIC, UNAM, habitat puma" />
+    <script type="text/javascript">//<![CDATA[
+   var _gaq = _gaq || [];
+
+   _gaq.push(['educatic._setAccount', 'UA-27603340-22']);
+   _gaq.push(['educatic._trackPageview']);
+
+   _gaq.push(['unam._setAccount', 'UA-11155928-1']);
+   _gaq.push(['unam._setDomainName', '.unam.mx']);
+   _gaq.push(['unam._trackPageview']);
+
+   (function () {
+       var ga = document.createElement('script');
+       ga.type = 'text/javascript';
+       ga.async = true;
+       ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+
+       var s = document.getElementsByTagName('script')[0];
+       s.parentNode.insertBefore(ga, s);
+   })();
+   //]]></script>
+
+
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Coordinación de Tecnologías para la Educación - hábitat puma UNAM</title>
+<!-- TemplateEndEditable -->
+<!-- Style -->
+<link href="../css/bootstrap.css" rel="stylesheet">
+<link href="../css/style.css" rel="stylesheet">
+<!-- Responsive -->
+<link href="../css/responsive.css" rel="stylesheet">
+<!-- Choose Layout -->
+<link href="../css/layout-semiboxed.css" rel="stylesheet">
+<!-- Choose Skin -->
+<link href="../css/skin-azul.css" rel="stylesheet">
+<!-- Favicon -->
+<link rel="shortcut icon" href="../img/favicon.ico">
+<!-- IE -->
+<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+<!-- WARNING: Respond.js doesnt work if you view the page via file:// -->
+<!--[if lt IE 9]>
+      <script src="js/html5shiv.js"></script>
+      <script src="js/respond.min.js"></script>	   
+    <![endif]-->
+<!--[if lte IE 8]>
+	<link href="css/ie8.css" rel="stylesheet">
+	 <!--[endif]-->
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+</head>
+<body class="off">
+<!-- /.wrapbox start-->
+<div class="wrapbox">
+	<!-- Encabezado================================================== -->
+	<section class="toparea">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 top-text pull-left animated fadeInLeft">
+				<a href="http://www.unam.mx" target="_blank"><img src="../images/logo-unam.png"></a> <a href="http://tic.unam.mx" target="_blank"><img src="../images/logo-dgtic.png" class="imgdgtic"></a>
+			</div>
+			<div class="col-md-6 text-center animated fadeInLeft txthp">
+				<h1 class="font300 fontopensans"><a href="../index.html" target="_self" style="color:white">Coordinación de Tecnologías para la Educación <br> h@bitat puma</a></h1>
+			</div>	
+		</div>
+	</div>
+	</section>
+	<!-- /Encabezado fin -->
+	<section><!-- #BeginLibraryItem "/Library/menu.lbi" -->	<!-- Menu================================================== -->
+	<nav class="navbar navbar-fixed-top wowmenu" role="navigation">
+	<div class="container">
+		<div class="navbar-header"> <img src="../images/logo-habitat.png" alt="Coordinación de Tecnologías para la Educación - h@bitat puma">
+		</div>
+		<ul id="nav" class="nav navbar-nav pull-right">
+			<li class="active"><a href="../index.html">Inicio</a></li>
+			<li class="dropdown">
+			<a href="../formacion-docente/index.html" class="dropdown-toggle" data-toggle="dropdown">Formación docente <i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+		    <li><a href="../formacion-docente/diplomados/index.html">Diplomados</a></li>
+				<li><a href="../formacion-docente/talleres/index.html">Talleres</a></li>
+				<li><a href="../formacion-docente/microtalleres/index.html">Microtalleres</a></li>
+                <li><a href="../formacion-docente/diplomados/moviles/ipad/materiales.html">Materiales</a></li>
+                <li><a href="../formacion-docente/faq.html">Preguntas frecuentes</a></li>
+			</ul>
+			</li>
+			<li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Jóvenes TIC<i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+				<li><a href="../jovenes-tic/index.html">Plan de becas</a></li>
+				<li><a href="../jovenes-tic/servicio-social.html">Servicio social</a></li>
+				<li><a href="../jovenes-tic/apoyo-academico.html">Apoyo académico</a></li>
+				<li><a href="http://retos.educatic.unam.mx/" target="_blank">Retos TIC</a></li>
+                <li><a href="http://www.salonenlinea.unam.mx/moodleinduccion_alumnos/" target="_blank">Inducción en TIC</a></li>
+			</ul>
+		  </li> 
+            <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tu aula virtual<i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">		
+				<li><a href="../tu-aula-virtual/tav-alumno-cuenta.html">Alumno: Crear cuenta</a></li>
+                <li><a href="../tu-aula-virtual/profesor-solicitud.html">Profesor: Solicitud de aula</a></li>
+ 				<li><a href="../tu-aula-virtual/tav-ayuda.html">Ayuda en el uso de Moodle</a></li>
+			</ul>
+			</li> 
+			<li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Publicaciones <i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+			     <li><a href="../publicaciones/matriz-habilidades-digitales.html">Matriz de habilidades digitales</a></li>
+				<li><a href="../publicaciones/informes-ticometro.html">Informes del TICómetro</a></li>
+				<li><a href="../publicaciones/memorias-educatic.html">Memorias encuentro Educatic</a></li>
+				<li><a href="../publicaciones/galeria-habitat-puma.html">Galería h@bitat puma</a></li>
+                <li><a href="../publicaciones/numeralia.html">Numeralia</a></li>
+                <li><a href="../publicaciones/ponencias/index.html">Ponencias escritas</a></li>
+			</ul>
+			</li>
+			<li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Quiénes somos <i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+			  <li><a href="../quienes-somos/mision-objetivo.html">Misión y objetivo</a></li>
+			  <li><a href="../quienes-somos/equipo-habitat-puma.html">El equipo h@bitat puma</a></li>
+              <li><a href="../quienes-somos/medios.html">Presencia en los Medios</a></li>
+              <li><a href="../quienes-somos/contactanos.html">Contáctanos</a></li>
+			</ul>
+			</li>
+		</ul>		
+	</div>	
+	</nav> 
+	<!-- /menu fin--->
+<!-- #EndLibraryItem --><!-- Inicio CAROUSEL================================================== -->
+	<section class="carousel carousel-fade slide home-slider bottomspace30 " id="c-slide">
+	<div class="carousel-inner">
+        <!--currusel 1-->
+		<div class="item active" style="background: url(../images/carrusel1.jpg);">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-9 fadein scaleInv anim_1">
+						<div class="fadein scaleInv anim_2">
+							<span class="carouselText1 animated fadeInUpBig">Bienvenido a <span class="colortext">h@bitat puma</span></span>
+						</div>
+						<div class="fadein scaleInv anim_1">
+							<p class="carouselText2 animated fadeInLeft">
+								 Un hábitat para desarrollar habilidades digitales
+							</p>
+						</div>
+					</div>
+				<div class="col-md-3">
+				</div>
+				</div>
+			</div>
+		</div>
+		<!--currusel 2-->
+		<div class="item" style="background: url(../images/carrusel2.jpg);">
+			<div class="container">
+				<div class="row">
+					<div class="col-md-4 animated fadeInUp notransition">
+						<div class="fadein scaleInv anim_2"><br><br><br>
+							<span class="carouselText1 animated fadeInLeft">Numeralia <span class="colortext">2013</span></span>
+						</div>
+					</div>
+					<div class="col-md-8 animated fadeInUp  notransition topspace30 text-right">
+						<div class="car-highlight1 animated fadeInLeftBig">
+							 20 mil alumnos en Tu Aula Virtual
+						</div>
+						<div class="car-highlight2 animated fadeInRightBig notransition">
+							 6,092 profesores formados en el uso educativo de TIC
+						</div>
+						<div class="car-highlight3 animated fadeInUpBig notransition">
+							 32,453 alumnos de bachillerato respondieron el TICómetro
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+        <!--currusel 3-->
+        <div class="item" style="background: url(../images/carrusel3.jpg);">
+			<div class="container">
+				<div class="row">
+                    <div class="col-md-4">
+                    </div>
+					<div class="col-md-8 fadein scaleInv anim_1">
+						<div class="fadein scaleInv anim_1">
+							<span class="carouselText1 animated fadeInUpBig">Incorporación de <span class="colortext">Tecnologías</span> para la Educación</span>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div> 
+	</div>
+	<!--Control del carrusel  /.carousel-inner -->
+	<a class="left carousel-control animated fadeInLeft" href="#c-slide" data-slide="prev"><i class="icon-angle-left"></i></a>
+	<a class="right carousel-control animated fadeInRight" href="#c-slide" data-slide="next"><i class="icon-angle-right"></i></a>
+	</section>
+	<!-- /.carousel end-->	
+	
+	<!-- /.wrapsemibox start-->
+	<div class="wrapsemibox">
+	<section class="service-box">
+	  <div class="container paddingspace0">
+
+	      <div class="row">
+	      <div class="col-sm-9 paddingspace0">
+	      <!--Avisos-->
+	      <div class="row paddingspaceright0">
+			  <div class="col-sm-12 bottomspace10 paddingspacebottom5 avisos">
+			  <h2><i class="icon-tags"></i> Avisos y convocatoria</h2>
+				  <div class="row"><!-- TemplateBeginEditable name="Avisos y anuncios" -->
+                  <div class="col-sm-4"> <strong>Profesores ENP:</strong> <a href="home.dwt">Inscripciones abiertas para Micro-talleres presenciales sobre tips para el uso de TIC en el aula</a> </div>
+                  <div class="col-sm-4"> <strong>Profesores ENP:</strong> <a href="home.dwt">Inscripciones abiertas para Micro-talleres presenciales sobre tips para el uso de TIC en el aula</a> </div>
+                  <div class="col-sm-4"> <strong>Profesores ENP:</strong> <a href="home.dwt">Inscripciones abiertas para Micro-talleres presenciales sobre tips para el uso de TIC en el aula</a> </div>
+                  <!-- TemplateEndEditable --></div>
+			  </div>
+	      </div>
+	      <!--fin avisos-->
+	      <!--seubmenu-->
+	      	<div class="row">
+			  <div class="col-sm-12 paddingspace0">
+			       <!--docentes-->
+			       <div class="col-xs-6 col-sm-4 paddingspaceleft0">
+			       <div class="panel2">
+			        	<img src="../images/formacion-docente.jpg" class="img-rounded img-responsive">
+						<h2 class="text-center">Formación  docente</h2>
+						<p>Diplomados y talleres de formación docente en el uso frecuente de TIC en el aula.</p>
+						<a class="btn btn-azul" href="../plantilla1.html"><i class="icon-info-sign"></i> Más información  </a>
+				   </div>
+				   </div>
+			        <!--alumnos-->
+			        <div class="col-xs-6 col-sm-4 paddingspaceleft0">
+			        <div class="panel2">
+			        	<img src="../images/jovenes-tic.jpg" class="img-rounded img-responsive">
+						<h2 class="morado text-center">Jóvenes TIC</h2>
+						<p>Programa de formación profesional para alumnos de licenciatura en el uso de TIC en la enseñanza. </p>
+						<a class="btn btn-morado" href="../plantilla2.html"><i class="icon-info-sign"></i> Más información</a>
+			       </div>
+			       </div>
+			       <!--tu aula virtual-->
+			        <div class="col-xs-6 col-sm-4 paddingspaceleft0">
+			        <div class="panel2">
+			        	<img src="../images/aulas-virtuales.jpg" class="img-rounded img-responsive">
+						<h2 class="verde text-center">Tu aula virtual<br></h2>
+						<p>Servicio de aulas virtuales en la plataforma Moodle para el apoyo en la enseñanza presencial.<br /></p>
+						<a class="btn btn-verde" href="../plantilla3.html"><i class="icon-info-sign"></i> Más información</a>
+			        </div>
+			        </div>
+			 </div>
+	      </div>
+	      <!--fin submenu-->
+	      
+	      </div>
+	      <div class="col-sm-3 paddingspace0">
+		      <!--login plataforma-->
+		        <div class="col-sm-12 paddingspace0">
+					  <div class="platlogin text-center font600">
+					    Plataforma educativa
+					  </div>
+					  
+					  <div class="panel-footer">
+							<form role="form" action="http://formatic.unam.mx/login/index.php" method="post">
+							  <div class="form-group accordion">
+							    <label for="diplomados-talleres">Diplomado y talleres</label>
+							    <input type="text" class="form-control" id="login_username" name="username" placeholder="Escriba su usuario">
+							  </div>
+							      <div class="input-group">
+							      <input type="password" class="form-control fontsmall1" id="login_password" name="password" placeholder="Contraseña">
+							      <span class="input-group-btn">
+							        <button class="btn btn-azul" type="submit">Entrar <i class="icon-signin icon-large"></i></button>
+							      </span>
+							   </div>
+							</form>
+						</div>
+							
+						<div class="panel-footer">
+							<form role="form" id="login" method="post" action="http://www.salonenlinea.unam.mx/habitatpuma/moodleacademia/login/index.php">
+							  <div class="form-group">
+							    <label for="tu-aula-virtual">Tu aula virtual</label>
+							    <input type="text" class="form-control" name="username" id="login_username" placeholder="Escriba su usuario">
+							  </div>
+							      <div class="input-group">
+							      <input type="password" class="form-control fontsmall1" name="password" id="login_password" placeholder="Contraseña">
+							      <span class="input-group-btn">
+							        <button class="btn btn-verde" type="submit">Entrar <i class="icon-signin icon-large"></i></button>      
+							      </span>
+							    </div>
+							</form>
+						</div>
+							
+						<div class="panel-footer">
+							<form role="form" method="post" action="http://formatic.unam.mx/becarios/login/index.php">
+							  <div class="form-group">
+							    <label>Aula de becarios</label>
+							    <input type="text" class="form-control" id="username" name="username" placeholder="Escriba su usuario">
+							  </div>
+							      <div class="input-group">
+							      <input type="password" class="form-control fontsmall1" name="password" placeholder="Contraseña">
+							      <span class="input-group-btn">
+							        <button class="btn btn-morado" type="submit">Entrar <i class="icon-signin icon-large"></i></button>
+							      </span>
+							    </div>
+							</form>
+						</div>
+		        </div>
+		<!--fin login plataforma-->
+	      </div>
+	      </div> 
+	      <div class="row">      
+	  </div>
+	</section>
+	</div>
+<!-- /.service-box end-->
+					<div class="clearfix">
+					</div>
+	<!-- /.wrapsemibox end-->
+	<!-- PIE DE PAGINA================================================== -->
+	<section><!-- #BeginLibraryItem "/Library/Pie.lbi" -->      <div class="footer">
+        <div class="container animated fadeInUpNow notransition">
+          <div class="row">
+            <div class="col-sm-4">
+              <h2 class="title"><span class="colortext">D</span>ónde estamos</h2>
+              <div >
+                <address>
+                <strong class="font700"><abbr title="Dirección General de Cómputo y de Tecnologías de Información y Comunicación">DGTIC</abbr></strong><br>
+                Coordinación de Tecnologías para la Educación - h@bitat puma <br>
+                Circuito exterior s/n, <abbr title="Universidad Nacional Autónoma de México">UNAM</abbr>, <abbr title="Ciudad Universitaria">C.U.</abbr><br>
+                Delegación Coyoacán, México D.F.<br>
+                <abbr title="Código Postal">C.P.</abbr> 04510<br>
+                <br>
+                <strong class="font700">Teléfono:</strong> (55) 5622 8855 <br>
+                <span class="font700">Correo:</span>
+                </address>
+
+                
+                <ul class="social-icons list-soc">
+                  <li><a href="https://www.facebook.com/habitatpumaunam/" target="_blank"><i class="icon-facebook"></i></a></li>
+                  <li><a href="https://twitter.com/habitatPumaUNAM" target="_blank"><i class="icon-twitter"></i></a></li>
+                  <li><a href="http://www.pinterest.com/habitatpumaunam/" target="_blank"><i class="icon-pinterest"></i></a></li>
+                  <li><a href="https://plus.google.com/u/0/+habitatpumaUNAM/posts" target="_blank"><i class="icon-google-plus"></i></a></li>
+                  <li><a href="https://www.youtube.com/user/HabitatPuma" target="_blank"><i class="icon-youtube"></i></a></li>
+                </ul>
+                <p><a href="../acerca-de.html"> Acerca de este sitio web</a></p>
+              </div>
+            </div>
+            <div class="col-sm-8">
+              <h2 class="title"><span class="colortext">D</span>irectorio</h2>
+              <p><span class="font700">Universidad Nacional Autónoma de México</span><br>
+                Dr. Enrique Luis Graue Wiechers<br>
+                <em>Rector</em></p>
+              <p> Dr. Alberto Ken Oyama Nakagawa<br>
+                <em>Secretarío de Desarrollo Institucional</em></p>
+              <p><span class="font700"> Dirección General de Cómputo y de<br>
+                Tecnologías de Información y Comunicación</span> <br>
+                Dr. Felipe Bracho Carpizo<br>
+                <em>Director General</em></p>
+              <p><span class="font700"> Coordinación de Tecnologías para la Educación - h@bitat puma</span><br>
+                Dra. Marina Kriscautzky Laxague <br>
+                <em>Coordinadora</em>
+              </p>              
+            </div>
+          </div>
+        </div>
+      </div>
+      <p id="back-top"> <a href="#top"><span></span></a></p>
+      <div class="copyright">
+        <div class="container">
+          <div class="row">
+            <div class="col-sd-12">
+              <p align="center"> Hecho en México, Universidad Nacional Autónoma de México (UNAM), todos los derechos reservados 2009 - 2016. Esta página puede ser reproducida con fines no lucrativos, siempre y cuando se cite la fuente completa y su dirección electrónica, y no se mutile. De otra forma requiere permiso previo por escrito de la institución. <br></p>
+            </div>
+            </div>
+            </div>
+            </div><!-- #EndLibraryItem --></section>
+	<!-- /pie de pagina fin-->
+</div>
+<!-- /.wrapbox ends-->
+<!-- SCRIPTS
+================================================== -->
+<script src="../js/jquery.js"></script>
+<script src="../js/bootstrap.js"></script>
+<script src="../js/plugins.js"></script>
+<script src="../js/common.js"></script>
+<script>
+	/* ---------------------------------------------------------------------- */
+	/*	Carousel
+	/* ---------------------------------------------------------------------- */
+	$(window).load(function(){			
+		$('#carousel-projects').carouFredSel({
+		responsive: true,
+		items       : {
+        width       : 200,
+        height      : 295,
+        visible     : {
+            min         : 1,
+            max         : 4
+        }
+    },
+		width: '200px',
+		height: '295px',
+		auto: true,
+		circular	: true,
+		infinite	: false,
+		prev : {
+			button		: "#car_prev",
+			key			: "left",
+				},
+		next : {
+			button		: "#car_next",
+			key			: "right",
+					},
+		swipe: {
+			onMouse: true,
+			onTouch: true
+			},
+		scroll: {
+        easing: "",
+        duration: 2000
+    }
+	});
+		});
+</script>
+<script>
+	//CALL TESTIMONIAL ROTATOR
+	$( function() {
+		/*
+		- how to call the plugin:
+		$( selector ).cbpQTRotator( [options] );
+		- options:
+		{
+			// default transition speed (ms)
+			speed : 700,
+			// default transition easing
+			easing : 'ease',
+			// rotator interval (ms)
+			interval : 8000
+		}
+		- destroy:
+		$( selector ).cbpQTRotator( 'destroy' );
+		*/
+		$( '#cbp-qtrotator' ).cbpQTRotator();
+	} );
+</script>
+<script>
+	//CALL PRETTY PHOTO
+	$(document).ready(function(){
+		$("a[data-gal^='prettyPhoto']").prettyPhoto({social_tools:'', animation_speed: 'normal' , theme: 'dark_rounded'});
+	});
+</script>
+<script>
+	//MASONRY
+	$(document).ready(function(){
+	var $container = $('#content');
+	  $container.imagesLoaded( function(){
+		$container.isotope({
+		filter: '*',	
+		animationOptions: {
+		 duration: 750,
+		 easing: 'linear',
+		 queue: false,	 
+	   }
+	});
+	});
+	$('#filter a').click(function (event) {
+		$('a.selected').removeClass('selected');
+		var $this = $(this);
+		$this.addClass('selected');
+		var selector = $this.attr('data-filter');
+		$container.isotope({
+			 filter: selector
+		});
+		return false;
+	});
+	});
+</script>
+<script>
+//ROLL ON HOVER
+	$(function() {
+	$(".roll").css("opacity","0");
+	$(".roll").hover(function () {
+	$(this).stop().animate({
+	opacity: .8
+	}, "slow");
+	},
+	function () {
+	$(this).stop().animate({
+	opacity: 0
+	}, "slow");
+	});
+	});
+</script>
+</body>
+</html>

@@ -1,0 +1,59 @@
+	<!-- Menu================================================== -->
+	<nav class="navbar navbar-fixed-top wowmenu" role="navigation">
+	<div class="container">
+		<div class="navbar-header"> <img src="../images/logo-habitat.png" alt="Coordinación de Tecnologías para la Educación - h@bitat puma">
+		</div>
+		<ul id="nav" class="nav navbar-nav pull-right">
+			<li class="active"><a href="../index.html">Inicio</a></li>
+			<li class="dropdown">
+			<a href="../formacion-docente/index.html" class="dropdown-toggle" data-toggle="dropdown">Formación docente <i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+		    <li><a href="../formacion-docente/diplomados/index.html">Diplomados</a></li>
+				<li><a href="../formacion-docente/talleres/index.html">Talleres</a></li>
+				<li><a href="../formacion-docente/microtalleres/index.html">Microtalleres</a></li>
+                <li><a href="../formacion-docente/diplomados/moviles/ipad/materiales.html">Materiales</a></li>
+                <li><a href="../formacion-docente/faq.html">Preguntas frecuentes</a></li>
+			</ul>
+			</li>
+			<li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Jóvenes TIC<i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+				<li><a href="../jovenes-tic/index.html">Plan de becas</a></li>
+				<li><a href="../jovenes-tic/servicio-social.html">Servicio social</a></li>
+				<li><a href="../jovenes-tic/apoyo-academico.html">Apoyo académico</a></li>
+				<li><a href="http://retos.educatic.unam.mx/" target="_blank">Retos TIC</a></li>
+                <li><a href="http://www.salonenlinea.unam.mx/moodleinduccion_alumnos/" target="_blank">Inducción en TIC</a></li>
+			</ul>
+		  </li> 
+            <li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Tu aula virtual<i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">		
+				<li><a href="../tu-aula-virtual/tav-alumno-cuenta.html">Alumno: Crear cuenta</a></li>
+                <li><a href="../tu-aula-virtual/profesor-solicitud.html">Profesor: Solicitud de aula</a></li>
+ 				<li><a href="../tu-aula-virtual/tav-ayuda.html">Ayuda en el uso de Moodle</a></li>
+			</ul>
+			</li> 
+			<li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Publicaciones <i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+			     <li><a href="../publicaciones/matriz-habilidades-digitales.html">Matriz de habilidades digitales</a></li>
+				<li><a href="../publicaciones/informes-ticometro.html">Informes del TICómetro</a></li>
+				<li><a href="../publicaciones/memorias-educatic.html">Memorias encuentro Educatic</a></li>
+				<li><a href="../publicaciones/galeria-habitat-puma.html">Galería h@bitat puma</a></li>
+                <li><a href="../publicaciones/numeralia.html">Numeralia</a></li>
+                <li><a href="../publicaciones/ponencias/index.html">Ponencias escritas</a></li>
+			</ul>
+			</li>
+			<li class="dropdown">
+			<a href="#" class="dropdown-toggle" data-toggle="dropdown">Quiénes somos <i class="icon-angle-down"></i></a>
+			<ul class="dropdown-menu">
+			  <li><a href="../quienes-somos/mision-objetivo.html">Misión y objetivo</a></li>
+			  <li><a href="../quienes-somos/equipo-habitat-puma.html">El equipo h@bitat puma</a></li>
+              <li><a href="../quienes-somos/medios.html">Presencia en los Medios</a></li>
+              <li><a href="../quienes-somos/contactanos.html">Contáctanos</a></li>
+			</ul>
+			</li>
+		</ul>		
+	</div>	
+	</nav> 
+	<!-- /menu fin--->

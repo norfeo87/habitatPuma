@@ -1,0 +1,1509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+  <loc>http://educatic.unam.mx/</loc>
+  <lastmod>2016-06-22T17:17:18+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/avisos/educatic2016.png</image:loc>
+      <image:caption>Encuentro universitario de mejores practicas de uso de TIC en la educación</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>educatic</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/images/avisos/informe-ticometro.png</image:loc>
+    <image:caption>Informes sobre el TICometro 2015</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>TICometro 2015</image:title>
+</image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/index.html</loc>
+  <lastmod>2016-06-22T17:17:18+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/index.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/index.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/index.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/materiales.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>1.00</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/tabletas.png</image:loc>
+      <image:caption>Introducción al uso de tabletas iOS</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>iTunesU</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/actualizar.ios9.png</image:loc>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo actualizar a iOS 9</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/base-numbers.png</image:loc>
+    <image:caption>manual para crear una nueva hoja de cálculo</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Nociones básicas de Numbers</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/calificacion.iTunesU.png</image:loc>
+    <image:caption>manual para revisar la sección de tareas en iTUnesU</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo reviso mi calificación de una tarea en iTunesU</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/compartir-debate.png</image:loc>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo compartir un documento en un debate</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/compartir-numbers.png</image:loc>
+    <image:caption>manual para compartir una hoja de cálculo</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo compartir una hoja de cálculo en Numbers</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/compartir-page.png</image:loc>
+    <image:caption>manual para compartir un documento de Pages</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo compartir un documento de Pages</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/configura.ios.png</image:loc>
+    <image:caption>manual para aprender a configurar iOS</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cónfigurar iOS después de una actualización</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/debate.itunesU.png</image:loc>
+    <image:caption>manual para aprender a participar en un debate en iTuneU</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo participar en un debate en iTunesU</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/edicion-keynote.png</image:loc>
+    <image:caption>manual para aprender a editar tablas en Keynote</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo editar tablas y gráficas en Keynote</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/editar-keynote.png</image:loc>
+    <image:caption>manual para aprender a editar texto en Keynote</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo editar un texto en Keynote</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/funciones-numbers.png</image:loc>
+    <image:caption>manual de funciones usando Numbers</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo usar funciones en Numbers</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/graficas-numbers.png</image:loc>
+    <image:caption>manual de gráficas en Numbers</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo hacer gráficas en Numbers</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/grande-keynote.png</image:loc>
+    <image:caption>manual de colocación de imagenes en Keynote</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo colocar y editar una imagen en una diapositiva en Keynote</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/imagen-pages.png</image:loc>
+    <image:caption>manual de colocación de imagenes en Pages</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo poner una imagén en un documento de Pages</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/instalar.itunesU.png</image:loc>
+    <image:caption>manual de instalación de la aplicación iTunesU</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo instalar la app iTunesU</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/nombre.id.png</image:loc>
+    <image:caption>manual de Apple ID</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo agregar mi nombre completo a mi Apple ID</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/nombre.ipad.png</image:loc>
+    <image:caption>manual de iPad</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo cambiar el nombre de mi iPad</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/notificaciones.iTunesU.png</image:loc>
+    <image:caption>manual de iPad</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo activar las notificaciones de iTunesU</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/tarea.iTunesu.png</image:loc>
+    <image:caption>manual de iTunesU</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo enviar una Tarea en iTunesU</image:title>
+</image:image>
+<image:image>
+    <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/texto-pages.png</image:loc>
+    <image:caption>manual de Pages</image:caption>
+    <image:geo_location>Ciudad de México, México</image:geo_location>
+    <image:title>Cómo modificar un texto predeterminado en Pages</image:title>
+</image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/faq.html</loc>
+  <lastmod>2016-06-22T17:17:18+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/jovenes-tic/index.html</loc>
+  <lastmod>2016-06-22T17:53:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/cartel_becas.png</image:loc>
+      <image:caption>El Programa de becas está dirigido a estudiantes de licenciatura con conocimiento en habilidades digitales</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Programa de becas de formación en TIC en la UNAM</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/jovenes-tic/servicio-social.html</loc>
+  <lastmod>2016-06-22T17:53:27+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/jovenes-tic/apoyo-academico.html</loc>
+  <lastmod>2016-06-22T17:53:27+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/tav-alumno-cuenta.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/profesor-solicitud.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/tav-ayuda.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/ajustes24.png</image:loc>
+      <image:caption>La configuración del curso se realiza en el bloque de configuraciones</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Ajustes generales del curso</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/archivo24.png</image:loc>
+      <image:caption>Este recurso permite enlazar cualquier archivo sin importar el formato</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Archivo</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/barra_herramientas_moodle.png</image:loc>
+      <image:caption>La barra de herramientas permite editar textos, casi todos los recurso y actividades de Moodle se apoyan en ésta</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Barra de herramientas de Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/base_de_datos24.png</image:loc>
+      <image:caption>La base de datos es una herramienta que permite la recolección de datos sobre un tema</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Base de datos</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/bloques24.png</image:loc>
+      <image:caption>En este manual puede decidir qué bloques eliminar y cuáles poner disponibles</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, manejo de bloques en un curso</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/calificacion_simple_directa.png</image:loc>
+      <image:caption>En Moodle hay varias formas de calificar las actividades que se desarrollan</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Calificación simple directa y guia de puntaje</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/carpeta24.png</image:loc>
+      <image:caption>un folder permite organizar varios de los archivos contenidos en un mismo lugar</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Cómo hacer una carpeta en Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/chat24.png</image:loc>
+      <image:caption>El chat es una herramienta de comunicación sincrónica, en donde los usuarios pueden intercambiar mensajes.</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Chat</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/como_insertar_video_youtube.png</image:loc>
+      <image:caption>El recurso de Moodle "página" nos ofrece la oportunidad de incrustar un video de Youtube.</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Cómo insertar un video de YouTube</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/como_insertar_video_youtube.png</image:loc>
+      <image:caption>El recurso de Moodle "página" nos ofrece la oportunidad de incrustar un video de Youtube.</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Cómo insertar un video de YouTube</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/configurar-contrasena.png</image:loc>
+      <image:caption>Existen dos opciones para inscribir alumnos  a un curso en Moodle</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Configurar las contraseñas de acceso para los alumnos</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/copia-respaldo.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Copia de respaldo de un curso de Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/etiqueta24.png</image:loc>
+      <image:caption>Las etiquetas son texto e imágenes que se muestran directamente en el diagrama de temas.</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Crear una etiqueta</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/examen24.png</image:loc>
+      <image:caption>Los exámenes constituyen un recurso cotidiano para evaluar el conocimiento</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, examen</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/examen24.png</image:loc>
+      <image:caption>Los exámenes constituyen un recurso cotidiano para evaluar el conocimiento</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, examen</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/foro24.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, foro</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/glosario24.png</image:loc>
+      <image:caption>Los glosarios permiten hacer una colección de términos</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, glosario</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/grupos24.png</image:loc>
+      <image:caption>Los grupos en Moodle son entendidos como una agrupación de varios estudiantes inscritos en un mismo curso.</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, trabajando con grupos en Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/inscribir_usuarios24.png</image:loc>
+      <image:caption>Para dar de alta usuarios en su curso con el rol de participante </image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, inscribir usuarios en Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/libro_calificaciones.png</image:loc>
+      <image:caption>Para calificar un curso es conveniente organizar las actividades por temas a evaluar</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Libro de calificaciones</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/libro24.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Libro</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/pagina24.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, página</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/restaurar-curso.png</image:loc>
+      <image:caption>Para poder restaurar sus cursos en Moodle necesita tener el archivo de su copia de respaldo</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Cómo restaurar un curso en Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/rubrica24.png</image:loc>
+      <image:caption>Las tareas que se realizan en Moodle pueden calificarse de diferentes formas y entre ellas está la rúbricas</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Rúbricas en Moodle</image:title>
+  </image:image>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/tu-aula-virtual/descargables/rubrica24.png</image:loc>
+      <image:caption>Las tareas que se realizan en Moodle pueden calificarse de diferentes formas y entre ellas está la rúbricas</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle, Rúbricas en Moodle</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/matriz-habilidades-digitales.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/desktop2.png</image:loc>
+      <image:caption>De esta manera la matriz de habilidades digitales (MHD) propuesta por la Coordinación de Tecnologías para la Educación - h@bitat puma</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Matriz de habilidades digitales</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/informes-ticometro.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/memorias-educatic.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/galeria-habitat-puma.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/numeralia.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/index.html</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/quienes-somos/mision-objetivo.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/quienes-somos/equipo-habitat-puma.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/quienes-somos/medios.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/quienes-somos/contactanos.html</loc>
+  <lastmod>2016-06-22T17:17:20+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/asesorias/1-emision.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.5</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/carteles/diplomados/cartel5.png</image:loc>
+      <image:caption>Este diplomado promueve las habilidades digitales y de comunicación en los docentes</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Diplomado integración de TIC en las asesorías académicas</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/enp/1-emision.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/convocatoria/taller-ios-enp-junio-2016.html</loc>
+  <lastmod>2016-06-22T17:17:34+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.5</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometro2015.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/avisos/informe-ticometro.png</image:loc>
+      <image:caption>Resultados de la cuarta aplicación del cuestionario diagnóstico sobre habilidades digitales a estudiantes de bachillerato</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Informe del TICómetro</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/acerca-de.html</loc>
+  <lastmod>2016-06-22T17:17:18+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/formacion-docente-2016.pdf</loc>
+  <lastmod>2016-06-22T17:17:19+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/micro-talleres.pdf</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/talleres.pdf</loc>
+  <lastmod>2016-06-22T17:17:22+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/diplomados.pdf</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>monthly</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/asesorias/index.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/index.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/enp/index.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/tic-ensenanza/index.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/habilidades-digitales-licenciatura/index.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/habilidades-digitales-bachillerato/index.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.8</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/matematicas/index.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>yearly</changefreq>
+  <priority>0.1</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/situacionesdeensenanza.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+  <priority>0.50</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/moodleparaprofesores.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/moodle.png</image:loc>
+      <image:caption>Moodle permite a los profesores enriquecer sus cursos presenciales con el diseño de actividades en  línea</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle para profesores</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/images/tablet-ios.png</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/moodle.png</image:loc>
+      <image:caption>La incorporación de tabletas abre un panorama para facilitar el aprendizaje</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Uso de tabletas iOS en ambientes educativos</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/images/tablet-andorid.png</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.70</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/moodle.png</image:loc>
+      <image:caption>La incorporación de tabletas abre un panorama para facilitar el aprendizaje</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Uso de tabletas Android en ambientes educativos</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/aplicacionesmoviles.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/moodle.png</image:loc>
+      <image:caption>La incorporación de tabletas abre un panorama para facilitar el aprendizaje</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Aplicaciones móviles en tabletas iOS para ambientes educativos</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/dispositivosmoviles.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/Dispositivos-moviles.png</image:loc>
+      <image:caption>El uso de móviles permite desarrollar habilidades digitales</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Dispositivos móviles para la educación</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/asesoria-linea.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/asesores-linea.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>habilidades digitales para la asesoría en línea</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/diseno-instruccional.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/instruccional-tic.png</image:loc>
+      <image:caption>Es el proceso sistemático de planificación, organización y evaluación de enseñanza</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Diseño instruccional para la enseñanza con el apoyo de TIC</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/asesoria-academica.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/asesorias.png</image:loc>
+      <image:caption>Esta dirigido a profesores que brindan asesorias académicas</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Herramientas TIC para asesorías académicas</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/trabajocolaborativo.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/colaborativo.png</image:loc>
+      <image:caption>Uno de los propósitos  de la tecnologia es fomentar la socialización</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>trabajo colaborativo en redes sociales para la educación</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/instruccional-moodle.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/instruccional-moodle.png</image:loc>
+      <image:caption>Moodle permite diseñar cursos para apoyar las clases presenciales y llevar un registro de las actividades que se desarrollan l</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Diseño instruccional de curso con Moodle</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/evaluacionrubricas.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/rubricas.png</image:loc>
+      <image:caption>Las rúbricas permiten valorar el aprendizaje</image:caption>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Evaluación del aprendizaje mediante el suso de rúbricas</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/formaciondeasesores.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/asesores.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Formación de asesores en modalidad semipresencial</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/moodle-avanzado.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/modle-avanzado.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Moodle Avanzado</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/evaluacionmoodle.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/evaluacion-moodle.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Evaluación y seguimiento de alunos con Moodle</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/busquedaymapeo.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/bibliometria.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Búsqueda y mapeo de información en bases de datos especializadas</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/medios-para-el-aula.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/recursos-digitales.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Medios y recursos digitales</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/recursos-digitales.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/digital-recursos.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Recursos digitales en el aula</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/uso-tabletas-ios.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/micro-tab.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Uso de tabletas iOS en el aula</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/microtaller-tips-tic-aula.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/Tips-tic.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Tips para el uso de TIC en el aula</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/herramientas.google.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/google.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Herramientas de google para el aprendizaje</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/cartografia.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/cartografia.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cartografía para el desarrollo comunitario</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/mapas-conceptuales.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/mapa-mental.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Diseño y elaboración de mapas conceptuales y mentales</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/derechos-autor.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/Creatvie-commons.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Derechos de autor y licencias Creative Commons</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/familiogramas.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/microtalleres/introduccion-moodle.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/introduccion-moodle.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Introducción a la plataforma Moodle</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/configurar.ios.despues.de.una.actualizacion.pdf</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/introduccion-moodle.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Configurar iOS despues de una actualización</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/como.instalar.la.app.iTunesU.pdf</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/configura.ios.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Configurar iOS despues de una actualización</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/como.agregar.mi.nombre.completo.a.mi.apple.pdf</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/nombre.id.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo agregar mi nombre completo a mi Apple ID</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/como.cambiar.el.nombre.a.mi.ipad.pdf</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/nombre.ipad.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo cambiar el nombre a mi iPad</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/como.participar.en.un.debate.en.itunes.pdf</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/debate.itunesU.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo participar en un debate en iTunesU</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/como.activar.las.notificaciones.de.iTunes.pdf</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/notificaciones.iTunesU.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo activar las notificaciones de iTunesU</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Numbers-Compartir.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/compartir-numbers.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo compartir una hoja de cálculo en Numbers</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Numbers-Funciones.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/funciones-numbers.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo usar funciones en Numbers</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Numbers-Graficas.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/graficas-numbers.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo hacer gráficas en Numbers</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Numbers-nocionesBasicas.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/base-numbers.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Nociones básicas de Numbers</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Pages-Compartir.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/compartir-page.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo compartir un documento de Pages</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Pages-Imagenes.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/imagen-pages.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo poner una imagen en un documento de Pages</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Pages-ModificarTexto.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/texto-pages.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo modificar un texto predeterminado en Pages</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Keynote_editar%20imagen.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/grande-keynote.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo colocar y editar una imagen en una diapositiva en keynote</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/keynote-tablas-graficas.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/grande-keynote.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo editar tablas gráficas en Keynote</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Keynote-EditarTexto.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/editar-keynote.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo editar un texto en Keynote</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/Keynote-NuevaPresentacion.pdf</loc>
+  <lastmod>2016-06-22T17:17:36+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/descargables/presentacion-keynote.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Cómo crear una nueva presentación en Keynote</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/jovenes-tic/faq.html</loc>
+  <lastmod>2016-06-22T17:53:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/ajustes24.pdf</loc>
+  <lastmod>2016-06-22T17:17:30+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/libro_calificaciones.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/calificacion_simple_directa.pdf</loc>
+  <lastmod>2016-06-22T17:17:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/inscribir_usuarios24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/configurar-contrasena.pdf</loc>
+  <lastmod>2016-06-22T17:17:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/grupos24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/copia-respaldo.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/restaurar-curso.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/tareas24.pdf</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/bloques24.pdf</loc>
+  <lastmod>2016-06-22T17:17:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/base_de_datos24.pdf</loc>
+  <lastmod>2016-06-22T17:17:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/chat24.pdf</loc>
+  <lastmod>2016-06-22T17:17:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/foro24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/examen24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/etiqueta24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/glosario24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/carpeta24.pdf</loc>
+  <lastmod>2016-06-22T17:17:31+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/rubrica24.pdf</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/archivo24.pdf</loc>
+  <lastmod>2016-06-22T17:17:30+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/pagina24.pdf</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/url24.pdf</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/como_insertar_video_youtube.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/tu-aula-virtual/descargables/libro24.pdf</loc>
+  <lastmod>2016-06-22T17:17:32+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/matriz-de-habilidades/matriz-habilidades-digitales-2014.pdf</loc>
+  <lastmod>2016-06-22T17:17:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometro2012.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometro2013.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometro-DIC-2013.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometro2014.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroENEO2013.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroENEO2014.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroENEO2015.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroENTS2013.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroFESCuautitlan2014.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroOdontologia2014.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroOdontologia2015.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroFCA2014.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroFCA2015.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroFESIztacala2015.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometroPsicologia2015.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ticometro/TICometro2015-InformeFESAcatlan.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/memorias/memorias-educatic2015-ciencias-biologicas-quimica-y-de-la-salud.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/memorias/memorias-educatic2015-FIsica-Matematica-Ingenieria.pdf</loc>
+  <lastmod>2016-06-22T17:17:25+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/memorias/memorias-educatic2015-ciencias-sociales.pdf</loc>
+  <lastmod>2016-06-22T17:17:23+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/memorias/memorias-educatic2015-humanidades-y-de-las-artes.pdf</loc>
+  <lastmod>2016-06-22T17:17:25+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/Posibilidades-educativas.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/15-retos-tic.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/3-aulas-virtual.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/14-experiencia.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/10-formacion-profesores.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/ponencias.html</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/ponencias1.html</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/ponencias2.html</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/quienes-somos/noticias/docentes-actualiza.pdf</loc>
+  <lastmod>2016-06-22T17:17:30+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/talleres/uso-tabletas-ios.html</loc>
+  <lastmod>2016-06-22T17:17:21+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.80</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/taller-uso-tabletas-ios.jpg</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Uso de tabletas iOS en el aula</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/jovenes-tic/</loc>
+  <lastmod>2016-06-22T17:53:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.84</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/cartel_becas.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>TIC para la educación</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/diplomado.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.81</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/ipad.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Tecnologías móviles para la educación</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/tic-ensenanza/11-emision.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/cartel2.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Aplicaciones de las TIC para la enseñanza</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/habilidades-digitales-licenciatura/3-emision.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/cartel.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>TIC para el desarrollo de habilidades digitales en el aula</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/habilidades-digitales-licenciatura/2-emision.html</loc>
+  <lastmod>2016-06-22T17:17:33+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/habilidades-digitales-bachillerato/CCH/1-emision.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/habilidades-digitales-bachillerato/ENP/2-emision.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.10</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/7-reflexiones.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/1-massive-online.pdf</loc>
+  <lastmod>2016-06-22T17:17:25+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/12-integracion-tabletas.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/4-reflexiones.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/8-diagnostic.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/9-formacion-docente.pdf</loc>
+  <lastmod>2016-06-22T17:17:28+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/2-definition-of-digital.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/5-notas-algabetizacion.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/6-diagnostico.pdf</loc>
+  <lastmod>2016-06-22T17:17:27+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/16-curso-moodle.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/11-lasTIC-en-la-ensenanza.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/publicaciones/ponencias/13-competencias.pdf</loc>
+  <lastmod>2016-06-22T17:17:26+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/index.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.81</priority>
+  <image:image>
+      <image:loc>http://educatic.unam.mx/images/ipad.png</image:loc>
+      <image:geo_location>Ciudad de México, México</image:geo_location>
+      <image:title>Programa de formación docente en uso de tecnologías móviles en el aula</image:title>
+  </image:image>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/microtaller.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>http://educatic.unam.mx/formacion-docente/diplomados/moviles/ipad/taller.html</loc>
+  <lastmod>2016-06-22T17:17:35+00:00</lastmod>
+  <changefreq>daily</changefreq>
+  <priority>0.41</priority>
+</url>
+</urlset>

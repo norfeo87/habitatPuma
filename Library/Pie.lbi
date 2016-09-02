@@ -1,0 +1,57 @@
+      <div class="footer">
+        <div class="container animated fadeInUpNow notransition">
+          <div class="row">
+            <div class="col-sm-4">
+              <h2 class="title"><span class="colortext">D</span>ónde estamos</h2>
+              <div >
+                <address>
+                <strong class="font700"><abbr title="Dirección General de Cómputo y de Tecnologías de Información y Comunicación">DGTIC</abbr></strong><br>
+                Coordinación de Tecnologías para la Educación - h@bitat puma <br>
+                Circuito exterior s/n, <abbr title="Universidad Nacional Autónoma de México">UNAM</abbr>, <abbr title="Ciudad Universitaria">C.U.</abbr><br>
+                Delegación Coyoacán, México D.F.<br>
+                <abbr title="Código Postal">C.P.</abbr> 04510<br>
+                <br>
+                <strong class="font700">Teléfono:</strong> (55) 5622 8855 <br>
+                <span class="font700">Correo:</span>
+                </address>
+
+                
+                <ul class="social-icons list-soc">
+                  <li><a href="https://www.facebook.com/habitatpumaunam/" target="_blank"><i class="icon-facebook"></i></a></li>
+                  <li><a href="https://twitter.com/habitatPumaUNAM" target="_blank"><i class="icon-twitter"></i></a></li>
+                  <li><a href="http://www.pinterest.com/habitatpumaunam/" target="_blank"><i class="icon-pinterest"></i></a></li>
+                  <li><a href="https://plus.google.com/u/0/+habitatpumaUNAM/posts" target="_blank"><i class="icon-google-plus"></i></a></li>
+                  <li><a href="https://www.youtube.com/user/HabitatPuma" target="_blank"><i class="icon-youtube"></i></a></li>
+                </ul>
+                <p><a href="../acerca-de.html"> Acerca de este sitio web</a></p>
+              </div>
+            </div>
+            <div class="col-sm-8">
+              <h2 class="title"><span class="colortext">D</span>irectorio</h2>
+              <p><span class="font700">Universidad Nacional Autónoma de México</span><br>
+                Dr. Enrique Luis Graue Wiechers<br>
+                <em>Rector</em></p>
+              <p> Dr. Alberto Ken Oyama Nakagawa<br>
+                <em>Secretarío de Desarrollo Institucional</em></p>
+              <p><span class="font700"> Dirección General de Cómputo y de<br>
+                Tecnologías de Información y Comunicación</span> <br>
+                Dr. Felipe Bracho Carpizo<br>
+                <em>Director General</em></p>
+              <p><span class="font700"> Coordinación de Tecnologías para la Educación - h@bitat puma</span><br>
+                Dra. Marina Kriscautzky Laxague <br>
+                <em>Coordinadora</em>
+              </p>              
+            </div>
+          </div>
+        </div>
+      </div>
+      <p id="back-top"> <a href="#top"><span></span></a></p>
+      <div class="copyright">
+        <div class="container">
+          <div class="row">
+            <div class="col-sd-12">
+              <p align="center"> Hecho en México, Universidad Nacional Autónoma de México (UNAM), todos los derechos reservados 2009 - 2016. Esta página puede ser reproducida con fines no lucrativos, siempre y cuando se cite la fuente completa y su dirección electrónica, y no se mutile. De otra forma requiere permiso previo por escrito de la institución. <br></p>
+            </div>
+            </div>
+            </div>
+            </div>

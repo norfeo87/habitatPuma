@@ -1,0 +1,6 @@
+User-Agent: *
+Disallow: /img/
+Disallow: /images/
+Disallow: /fonts/
+Disallow: /jovenes/
+Sitemap: http://educatic.unam.mx/sitemap.xml
